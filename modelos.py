@@ -745,18 +745,3 @@ with tab4:
                 ```
                 """)
 
-# =============================================================================
-# FOOTER
-# =============================================================================
-st.markdown("---")
-st.markdown(
-    """
-    <div style='text-align: center; color: #666; padding: 1rem;'>
-        <b>🧠 Tarea Investigativa - Modelos Supervisados vs No Supervisados</b> • 
-        <b>📚 Aprendizaje Automático</b> • 
-        <b>🎓 [Tu Nombre]</b> •
-        <b>📅 Fecha: Noviembre 2024</b>
-    </div>
-    """,
-    unsafe_allow_html=True
-)
